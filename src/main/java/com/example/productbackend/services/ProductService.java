@@ -10,9 +10,7 @@ import com.example.productbackend.dtos.ProductResponse;
 import com.example.productbackend.entities.Product;
 import com.example.productbackend.mappers.ProductMapper;
 import com.example.productbackend.repositories.ProductRepository;
-import com.example.productbackend.mappers.ProductMapper;
-import com.example.productbackend.dtos.ProductRequest;
-import com.example.productbackend.dtos.ProductResponse;
+
 
 import jakarta.persistence.EntityNotFoundException;
 
