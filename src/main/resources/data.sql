@@ -1,3 +1,3 @@
-INSERT INTO TBL_PRODUCT (id, product_name, price) VALUES (1, 'Uva verde', 10.99);
-INSERT INTO TBL_PRODUCT (id, product_name, price) VALUES (2, 'Pitaya', 19.99);
-INSERT INTO TBL_PRODUCT (id, product_name, price) VALUES (3, 'Banana', 5.49);
+INSERT INTO TBL_PRODUCT (product_name, price) VALUES ('Uva verde', 10.99);
+INSERT INTO TBL_PRODUCT (product_name, price) VALUES ('Pitaya', 19.99);
+INSERT INTO TBL_PRODUCT (product_name, price) VALUES ('Banana', 5.49);
